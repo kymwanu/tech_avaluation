@@ -1,0 +1,9 @@
+[submodule "demo_project"]
+	path = demo_project
+	url = git@github.com:kymwanu/demo_project.git
+[submodule "dashboard_web"]
+	path = dashboard_web
+	url = git@github.com:kymwanu/dashboard_web.git
+[submodule "landing_page"]
+	path = landing_page
+	url = git@github.com:kymwanu/landing_page.git
